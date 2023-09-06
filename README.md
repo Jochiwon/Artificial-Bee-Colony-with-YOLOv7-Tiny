@@ -77,4 +77,5 @@ CUDA: 11.8
 random_rule을 random_pretrain이라 한다면 honey code로 pruning 후 기존 pretrain데이터에서 weight를 랜덤하게 가져오기 때문에 random weight pruning이라 볼 수 있습니다.
 
 ABC 알고리즘의 설명은 아래 링크를 참고 부탁드립니다.
+
 ```https://untitledtblog.tistory.com/53```
